@@ -1,0 +1,1 @@
+Collection of Javascripit psedo codes. Easey to learn some concepts in in Javascripit. 
