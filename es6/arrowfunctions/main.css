@@ -1,0 +1,14 @@
+div{
+    width: 40%;
+    margin: 10px;
+    border: 1px solid black;
+    padding: 10px;
+}
+.green{
+    background-color: green
+}
+.yellow{
+    background-color: yellow;
+}
+.orange {background-color: orange
+}
