@@ -1,1 +1,2 @@
-Collection of Javascript codes. Easy to learn some concepts in in Javascript. 
+Collection of Javascript codes that are easy to learn useful concepts in  Javascript. 
+
